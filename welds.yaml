@@ -1,0 +1,11 @@
+path: "/content/"
+train: "splitted"
+val: "val_splitted"
+test: ""
+
+names: 
+  0: adj
+  1: int
+  2: geo
+  3: pro
+  4: non
